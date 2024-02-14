@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Honk&display=swap');
+
+body {
+	background-color: #d4157f;
+	font-family: "Honk", "FiraCode Nerd Font";
+	text-align: center;
+}
+
+h1 {
+	font-size: 100px;
+}
+
+p {
+	font-size: 30px;
+}
+
+ul {
+	font-size: 40px;
+	list-style-type: none;
+}
